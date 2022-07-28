@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+nav {
+    text-align: center;
+}
+
+body {
+    margin-left: 25%;
+    margin-top: 20px;
+    margin-right: 25%;
+    align-self: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color: red;
+    font-family: 'Metal Mania', sans-serif;
+    font-size: large;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.subgenres-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.source-link {
+    text-align: right;
+    font-style: italic;
+}
+
+.group-names {
+    font-family: 'Metal Mania', sans-serif;
+    font-size: 70px;
+}
+
+.logos {
+    background-color: white;
+}
+/* <ul class="navbar">
+                <li>
+                    <a href="index.html">Ana Sayfa</a>
+                </li>
+                <li>
+                    <a href="pioneers.html">Öncüler</a>
+                </li>
+                
+            </ul> */
